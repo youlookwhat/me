@@ -4,6 +4,7 @@
  - [官网]使用 Flutter 构建 Web 应用： https://flutter.cn/docs/get-started/web
  - fix Flutter解决 警告 Waiting for another flutter command to release the startup lock https://juejin.cn/post/6844903855751217160
  - 参考：https://github.com/wasabeef/wasabeef.jp
+ - 部署应用：flutter run -d chrome
 
 
 <!--
