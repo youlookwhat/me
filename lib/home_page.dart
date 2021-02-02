@@ -32,27 +32,26 @@ class HomePage extends StatelessWidget {
                 direction: Axis.vertical,
                 spacing: 4,
                 children: [
-                  Text('景彬',
-                      style: Theme.of(context).textTheme.headline1),
+                  Text('景彬', style: Theme.of(context).textTheme.headline1),
                   const Text(
                     'GitHub account is youlookwhat',
                     style: bodyText1,
                   ),
                   const SizedBox(height: 4),
                   const Text(
-                    'Android developer,the author of CloudReader',
+                    'Android developer, the author of CloudReader',
                     style: bodyText1,
                   ),
                   Wrap(
                     spacing: 2,
                     children: [
                       const SocialButton(
-                        icon: FontAwesomeIcons.medium,
-                        link: 'http://jinbeen.com',
-                      ),
-                      const SocialButton(
                         icon: FontAwesomeIcons.github,
                         link: 'https://github.com/youlookwhat',
+                      ),
+                      const SocialButton(
+                        icon: FontAwesomeIcons.medium,
+                        link: 'http://jinbeen.com',
                       ),
                       const SocialButton(
                         icon: FontAwesomeIcons.twitter,
