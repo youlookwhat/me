@@ -82,7 +82,7 @@ class HomePage extends StatelessWidget {
               children: [
                 // Image.network(
                 //     'https://www.cutercounter.com/hit.php?id=huxkapax&nd=6&style=27'),
-                const SizedBox(height: 8),
+                // const SizedBox(height: 8),
                 const Text(
                   'Running on Flutter Web',
                   style: TextStyle(fontSize: 10),
