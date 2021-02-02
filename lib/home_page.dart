@@ -80,8 +80,8 @@ class HomePage extends StatelessWidget {
             child: Column(
               mainAxisSize: MainAxisSize.min,
               children: [
-                Image.network(
-                    'https://www.cutercounter.com/hit.php?id=huxkapax&nd=6&style=27'),
+                // Image.network(
+                //     'https://www.cutercounter.com/hit.php?id=huxkapax&nd=6&style=27'),
                 const SizedBox(height: 8),
                 const Text(
                   'Running on Flutter Web',
