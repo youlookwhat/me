@@ -8,6 +8,7 @@
  - fix Flutter解决 警告 Waiting for another flutter command to release the startup lock https://juejin.cn/post/6844903855751217160
  - 参考：https://github.com/wasabeef/wasabeef.jp
  - 部署应用：flutter run -d chrome
+ - MAC os 环境变量设置错误，终端命令不能用了，如何恢复？: https://blog.csdn.net/liuyan20092009/article/details/51239749
 
 
 <!--
