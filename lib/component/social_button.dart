@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-import '../me/app_theme.dart';
+import '../app_theme.dart';
 
 class SocialButton extends StatelessWidget {
   const SocialButton({IconData icon, String link})
