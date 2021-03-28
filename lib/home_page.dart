@@ -50,24 +50,24 @@ class HomePage extends StatelessWidget {
                         link: 'https://github.com/youlookwhat',
                       ),
                       const SocialButton(
+                        icon: FontAwesomeIcons.android,
+                        link: 'https://juejin.cn/user/201965867640862/posts/',
+                      ),
+                      const SocialButton(
+                        icon: FontAwesomeIcons.cuttlefish,
+                        link: 'https://blog.csdn.net/jingbin_/',
+                      ),
+                      const SocialButton(
                         icon: FontAwesomeIcons.medium,
                         link: 'http://jinbeen.com',
                       ),
+                      // const SocialButton(
+                      //   icon: FontAwesomeIcons.weixin,
+                      //   link: 'https://speakerdeck.com/',
+                      // ),
                       const SocialButton(
-                        icon: FontAwesomeIcons.twitter,
-                        link: 'https://twitter.com/youlookwhat',
-                      ),
-                      const SocialButton(
-                        icon: FontAwesomeIcons.speakerDeck,
-                        link: 'https://speakerdeck.com/',
-                      ),
-                      const SocialButton(
-                        icon: FontAwesomeIcons.linkedin,
-                        link: 'https://linkedin.com/',
-                      ),
-                      const SocialButton(
-                        icon: FontAwesomeIcons.stackOverflow,
-                        link: 'https://stackoverflow.com/',
+                        icon: FontAwesomeIcons.zhihu,
+                        link: 'https://www.zhihu.com/people/ren-lai-ren-wang-65-63/',
                       ),
                     ],
                   ),
