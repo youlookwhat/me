@@ -39,7 +39,7 @@ class HomePage extends StatelessWidget {
                   ),
                   const SizedBox(height: 4),
                   const Text(
-                    'Android developer, the author of CloudReader',
+                    'Android developer, Kotlin, 微信小程序, Keep Learning',
                     style: bodyText1,
                   ),
                   Wrap(
