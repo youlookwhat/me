@@ -11,9 +11,9 @@ class App extends StatelessWidget {
     return MaterialApp(
       title: 'youlookwhat (景彬)',
       theme: appTheme,
-      initialRoute: '/me/',
+      initialRoute: '/',
       routes: {
-        '/me/': (context) => HomePage()
+        '/': (context) => HomePage()
       },
     );
   }
