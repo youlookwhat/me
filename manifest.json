@@ -1,0 +1,11 @@
+{
+    "name": "youlookwhat",
+    "short_name": "jingbin",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "youlookwhat (景彬)",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
